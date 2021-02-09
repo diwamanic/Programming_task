@@ -5,7 +5,7 @@ Note: Due to computing power limitations, I have performed all my works in the G
 But, I have also included the corresponding *.py scripts for your reference, if you need it.
 
 #### Experiment 1:
-- As per the instructions provided in the Github README.md for the traffic_sign_recogntion repository, I have run the pipeline and the results observed are captured in the Excel sheet.
+- As per the instructions provided in the Github README.md for the traffic_sign_recogntion repository (https://github.com/wolfapple/traffic-sign-recognition.git), I have run the pipeline and the results observed are captured in the Excel sheet.
 
     It is also captured below as an image.
     (Note: The epochs is set to 22 due to computing power limitations for both the experiments)
